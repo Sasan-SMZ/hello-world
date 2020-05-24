@@ -1,4 +1,3 @@
 # hello-world
-Just for practice
 
-All is vanity.
+All is Vanity.
